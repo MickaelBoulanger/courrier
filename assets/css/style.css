@@ -1,0 +1,36 @@
+.titre
+    {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    width: 70%;
+    margin: auto;
+        }
+#main
+    { 
+    color:rgb(0, 0, 0);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+        }
+.bloc1
+    {
+    width: 50% ;
+    background-color: rgb(225, 232, 191);
+        }
+.bloc2
+    {
+    width: 50% ;
+    background-color: rgb(225, 232, 142);
+       }
+
+.img2
+    {
+    text-align: center;
+        }
+
+.img1
+    {
+    text-align: center;
+        }
